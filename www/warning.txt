@@ -1,0 +1,3 @@
+sensor	value
+CLO-A2>CLO-MAX	42.1>27
+CLO-A3>CLO-MAX	30.2>29

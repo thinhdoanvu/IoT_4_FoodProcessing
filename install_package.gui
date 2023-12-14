@@ -1,0 +1,14 @@
+1. for library(highcharter)#highchartOutput
+Error: package or namespace load failed for ‘highcharter’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ namespace ‘vctrs’ 0.6.3 is already loaded, but >= 0.6.4 is required
+
+---Try this
+install.packages("vctrs")
+
+2. here::
+need to install library 
+
+3. DT (Data Table)
+need library DT 
+
+
